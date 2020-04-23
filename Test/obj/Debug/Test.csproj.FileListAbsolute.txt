@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\bin\Debug\Test.exe
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\bin\Debug\Test.pdb
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\obj\Debug\Test.exe
+C:\Users\Admin\OneDrive\Máy tính\KiemTra\Test\obj\Debug\Test.pdb
